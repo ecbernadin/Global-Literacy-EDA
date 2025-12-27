@@ -35,3 +35,9 @@ Link to dataset: https://data.unicef.org/resources/dataset/education-data/
 #### Wealth Quintile/Sex/Residence:
 - Percentage of children of specified demographic demonstrating proficiency
 
+  ### Resources:
+  Python Libraries:
+  - pandas
+  - Numpy
+  - Matplotlib
+

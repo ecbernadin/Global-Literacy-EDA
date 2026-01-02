@@ -1,5 +1,5 @@
 # Foundational-Skills-EDA
-Python data analysis project including cleaning, analysis, and visualizations
+This project explores how proficiency in reading and numeracy takes shape around the world. This analysis identifies global trends in literacy and provides insights in steps that can be taken to increase reading and numeracy proficiency arcoss borders and developmental regions.
 
 ### Description:
 This dataset from UNICEF details proficiency in foundational learning skills (reading and numeracy), gauged through a survey adminstered to kids. This is defined, according to UNICEF as, 
@@ -11,13 +11,9 @@ Link to dataset: https://data.unicef.org/resources/dataset/education-data/
 
 
 ### Purpose
-1. Analyze a dataset detailing skills in reading and numeracy
-2. Create visualizations of the data
-3. Make recommendations based on the data
+Analyze data to highlight demographics facing exacberated deficits in foundational skills proficiecny through visulations and create strategies for schools, local governments, and non-profits to remedy these gaps and increase proficiency.
 
-### Columns
-#### Countries and areas:
-  - Country or area where survey was completed
+### Notes on Columns
 #### Region:
   - EAP: East Asis and Pacific
   - ECA: Europe and Central Asia
@@ -26,14 +22,7 @@ Link to dataset: https://data.unicef.org/resources/dataset/education-data/
   - MENA: Middle East and North Africa
 #### Development regions:
 - Calculated using GNI per capita
-#### Age group:
-- Percentage of children in specified age group (Grades 2/3 or Age 7-14) demonstrating proficiency
-#### Subject:
-- Percentage of children in specified subject (reading or numeracy) demonstrating proficiency
-#### Total:
-- Percentage of children survey demonstrating proficiency across all demographics
-#### Wealth Quintile/Sex/Residence:
-- Percentage of children of specified demographic demonstrating proficiency
+
 
   ### Resources:
   Python Libraries:

@@ -1,5 +1,5 @@
 # Foundational-Skills-EDA
-This project explores how proficiency in reading and numeracy takes shape around the world. This analysis identifies global trends in literacy and provides insights in steps that can be taken to increase reading and numeracy proficiency arcoss borders and developmental regions.
+This project explores how proficiency in reading and numeracy takes shape around the world. This analysis identifies global trends in literacy and provides insights and steps that can be taken to increase reading and numeracy proficiency arcoss borders and developmental regions.
 
 ### Description:
 This dataset from UNICEF details proficiency in foundational learning skills (reading and numeracy), gauged through a survey adminstered to kids. This is defined, according to UNICEF as, 
